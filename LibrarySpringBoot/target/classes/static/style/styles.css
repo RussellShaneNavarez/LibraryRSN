@@ -1,0 +1,58 @@
+body {
+    background-color: white;
+    color: #9370DB; /* Purple or Lily color */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding: 5vw;
+}
+
+h1 {
+    margin-bottom: 3vw;
+    font-size: 3vw;
+}
+
+form {
+    margin-bottom: 1.5vw;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    margin-bottom: 2vw;
+}
+
+td {
+    padding: 0.5vw;
+    font-size: 1.25vw;
+}
+
+input {
+    padding: 0.25vw;
+    font-size: 1.25vw;
+    width: 15vw;
+}
+
+button {
+    background-color: #9370DB; /* Purple or Lily color */
+    color: white;
+    border: none;
+    padding: 1vw 2vw;
+    font-size: 1.25vw;
+    cursor: pointer;
+    margin-top: 1vw;
+    border-radius: 1vw;
+}
+
+button:hover {
+    background-color: #7B68EE; /* Darker shade of purple */
+}
+
+p {
+    font-size: 1vw;
+    margin-top: 1.5vw;
+}
+
